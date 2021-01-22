@@ -9,7 +9,7 @@
 ### What I'm Up To 
 
 - 🔭 I’m currently working on VUE, REACT, WEB-COMPONENTS, STENCIL.JS, SASS and Advanced CSS.
-- 🌱 I’m currently learning Design patterns, Architecture design, stencil contributing in fronend guild.
+- 🌱 I’m currently learning Design patterns, Architecture design, web component, stencil contributing in fronend guild.
 
 ### Repos I own
 - [Enterprise](https://github.com/Monotype/Enterprise)
