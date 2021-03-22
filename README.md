@@ -8,7 +8,7 @@
 -->
 ### What I'm Up To 
 
-- 🔭 I’m currently working on VUE, REACT, WEB-COMPONENTS, STENCIL, JavaScript SASS, LESS and Advanced CSS.
+- 🔭 I’m currently working on VueJS, ReactJS, WEB-COMPONENTS, STENCIL, JavaScript SASS, LESS and Advanced CSS.
 - 🌱 I’m currently learning Design patterns, Architecture design, web component, stencil contributing in fronend guild.
 
 ### Repos I own
