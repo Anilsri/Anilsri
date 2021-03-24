@@ -1,7 +1,7 @@
 ### Hi there, I am Anil Kumar Srivastava 👋
 
 ### My Role
-- My role is Sr. Software engineer (UI/Frontend)
+- Sr. Software engineer (UI/Frontend)
 
 <!--
 **Anilsri/Anilsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
