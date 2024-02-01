@@ -20,6 +20,7 @@
 - [mt-digital-pattern-library](https://github.com/Monotype/mt-digital-pattern-library)
 - [mt-component-library](https://github.com/Monotype/mt-component-library/)
 - [mtf-monorepo] (https://github.com/Monotype/mtf-monorepo)
+- [Web component - antiqua] (https://github.com/Monotype/antiqua-design-system)
 
 ### Reach Me
 - 📬 Email: anil.srivastava@monotype.com or dkdeelip@gmail.com
