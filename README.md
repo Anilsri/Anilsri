@@ -1,7 +1,7 @@
 ### Hi there, I am Anil Kumar Srivastava 👋
 
 ### My Role & Responsibility
-- Associate Lead Software engineer (UI(HTML/CSS/SCSS/LESS/PostCSS/Prototype/BEM/Atomic Design/Responsive design/web component), Bootstrap, ReactJs, VueJS, jQuery, Javascript, Type Script, StencilJS, Web Components, Storybook, Lit, Elix, Material design, Gulp, rollup, webpack, vite, Quasar, NPM, RUSH, Ag-Grid, ChartJs, Google tag manager, Beamer, Appcues, Intercom, MS Clarity, Planhat, React-Native, Redux, Vuex, Vuetify, GraphQL)
+- Associate Lead Software engineer (UI(HTML/CSS/SCSS/LESS/PostCSS/Prototype/BEM/Atomic Design/Responsive design/web component), Bootstrap, ReactJs, VueJS, jQuery, Javascript, Type Script, StencilJS, Web Components, Storybook, Lit, Elix, Material design, Gulp, rollup, webpack, vite, Quasar, NPM, NPX, RUSH, Ag-Grid, ChartJs, Google tag manager, Beamer, Appcues, Intercom, MS Clarity, Planhat, React-Native, Redux, Vuex, Vuetify, GraphQL)
 
 <!--
 **Anilsri/Anilsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
