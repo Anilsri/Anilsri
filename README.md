@@ -19,6 +19,7 @@
 - [Vue Component Library](https://github.com/Monotype/vue-component-library)
 - [mt-digital-pattern-library](https://github.com/Monotype/mt-digital-pattern-library)
 - [mt-component-library](https://github.com/Monotype/mt-component-library/)
+- [mtf-monorepo] (https://github.com/Monotype/mtf-monorepo)
 
 ### Reach Me
 - 📬 Email: anil.srivastava@monotype.com or dkdeelip@gmail.com
