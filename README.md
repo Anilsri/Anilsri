@@ -48,7 +48,12 @@ Effectively communicating technical concepts and solutions to non-technical stak
 
 **Learning Skills:**
 
-  Architecture design
+  Architecture design  -- In progress
+  
+  Link:
+  https://frontendmasters.com/courses
+
+  https://www.pluralsight.com/courses/web-ui-architecture
   
 
 **Technical Skills:**
