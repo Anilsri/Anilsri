@@ -46,6 +46,11 @@ Communication:
 Effectively communicating technical concepts and solutions to non-technical stakeholders, promoting a clear understanding of UI-related aspects of the project.
 
 
+**Learning Skills:**
+
+  Architecture design
+  
+
 **Technical Skills:**
 
 **UI Experties:**
@@ -75,60 +80,92 @@ Effectively communicating technical concepts and solutions to non-technical stak
 **UI Libraries Experience:**
 
   Bootstrap
+  
   Material design
 
 **UI Web Component Libraries Experience:**
 
   Elix
+  
   Lit
 
 **JS Experience:**
 
   jQuery
+  
   Javascript
+  
   Type Script
+  
   VueJS
+  
   ReactJs
+  
   React-Native
+  
   Redux
+  
   Vuex
+  
   Vuetify
+  
   StencilJS
 
 **JS Tools Experience:**
 
   Gulp
+  
   Grunt
+  
   rollup
+  
   webpack
+  
   vite
+  
   Storybook
 
 **JS Libraries Experience:**
 
   Ag-Grid
+  
   ChartJs
+  
   Date picker
+  
   D3js
 
 **Package Manager Experience:**
 
   NPM
+  
   NPX
+
+  YARN
+
   RUSH -- Learning
 
 **Data Tracking tools Experience:**
 
   Google tag manager
+  
   Beamer
+  
   Appcues
+  
   Intercom
+  
   MS Clarity
+  
   Planhat
 
-**Learning Skills:**
+**Backend Tech Experience:**
 
-  Architecture design
+PHP
+
+MySql
+
+Lumen
 
 <!--
 **Anilsri/Anilsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
