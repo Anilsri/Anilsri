@@ -116,13 +116,13 @@ Effectively communicating technical concepts and solutions to non-technical stak
   MS Clarity
   Planhat
 
+**Learning Skills:**
+
+  Architecture design
+
 <!--
 **Anilsri/Anilsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### What I'm Up To 
-
-- 🔭 I’m currently working on VueJS, WEB-COMPONENTS, StencilJs, Storybook, ReactJS, Webpack, Roll up, Gulp, JavaScript, SASS, LESS, Post CSS, ag-grid, Advanced CSS, Google tag manager, Beamer, Appcues, Intercom, MS Clarity.
-- 🌱 I’m currently learning Design patterns, Architecture design, Frontend Libraries web component, stencil contributing in fronend guild.
 
 ### Repos I own
 - [Enterprise](https://github.com/Monotype/Enterprise)
