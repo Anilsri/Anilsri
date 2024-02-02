@@ -51,15 +51,25 @@ Effectively communicating technical concepts and solutions to non-technical stak
 **UI Experties:**
 
   HTML
+  
   CSS
+  
   SCSS
+  
   LESS
+  
   PostCSS
+  
   Prototype
+  
   BEM
+  
   Atomic Design
+  
   UI design patterns
+  
   Responsive design
+  
   web component
 
 **UI Libraries Experience:**
