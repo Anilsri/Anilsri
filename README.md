@@ -46,7 +46,75 @@ Communication:
 Effectively communicating technical concepts and solutions to non-technical stakeholders, promoting a clear understanding of UI-related aspects of the project.
 
 
-- Associate Lead Software engineer (UI(HTML/CSS/SCSS/LESS/PostCSS/Prototype/BEM/Atomic Design/Responsive design/web component), Bootstrap, ReactJs, VueJS, jQuery, Javascript, Type Script, StencilJS, Web Components, Storybook, Lit, Elix, Material design, Gulp, rollup, webpack, vite, Quasar, NPM, NPX, RUSH, Ag-Grid, ChartJs, Google tag manager, Beamer, Appcues, Intercom, MS Clarity, Planhat, React-Native, Redux, Vuex, Vuetify, GraphQL)
+**Technical Skills:**
+
+**UI Experties:**
+
+  HTML
+  CSS
+  SCSS
+  LESS
+  PostCSS
+  Prototype
+  BEM
+  Atomic Design
+  UI design patterns
+  Responsive design
+  web component
+
+**UI Libraries Experience:**
+
+  Bootstrap
+  Material design
+
+**UI Web Component Libraries Experience:**
+
+  Elix
+  Lit
+
+**JS Experience:**
+
+  jQuery
+  Javascript
+  Type Script
+  VueJS
+  ReactJs
+  React-Native
+  Redux
+  Vuex
+  Vuetify
+  StencilJS
+
+**JS Tools Experience:**
+
+  Gulp
+  Grunt
+  rollup
+  webpack
+  vite
+  Storybook
+
+**JS Libraries Experience:**
+
+  Ag-Grid
+  ChartJs
+  Date picker
+  D3js
+
+**Package Manager Experience:**
+
+  NPM
+  NPX
+  RUSH -- Learning
+
+**Data Tracking tools Experience:**
+
+  Google tag manager
+  Beamer
+  Appcues
+  Intercom
+  MS Clarity
+  Planhat
 
 <!--
 **Anilsri/Anilsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
