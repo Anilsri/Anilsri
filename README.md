@@ -103,6 +103,8 @@ Effectively communicating technical concepts and solutions to non-technical stak
   Type Script
   
   VueJS
+
+  VueX
   
   ReactJs
   
