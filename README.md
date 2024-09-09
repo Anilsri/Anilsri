@@ -60,9 +60,9 @@ Effectively communicating technical concepts and solutions to non-technical stak
 
 **UI Experties:**
 
-  HTML
+  HTML/HTML5
   
-  CSS
+  CSS/CSS3
   
   SCSS
   
@@ -81,6 +81,8 @@ Effectively communicating technical concepts and solutions to non-technical stak
   UI design patterns
   
   Responsive design
+
+  Adaptive design
   
   web component
 
@@ -102,7 +104,7 @@ Effectively communicating technical concepts and solutions to non-technical stak
   
   Javascript
   
-  Type Script
+  TypeScript
   
   VueJS
 
@@ -113,8 +115,6 @@ Effectively communicating technical concepts and solutions to non-technical stak
   React-Native
   
   Redux
-  
-  Vuex
   
   Vuetify
   
