@@ -168,6 +168,8 @@ Effectively communicating technical concepts and solutions to non-technical stak
   
   Planhat
 
+  Delighted survey
+
 **Backend Tech Experience:**
 
 PHP
